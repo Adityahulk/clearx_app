@@ -1,0 +1,17 @@
+flask
+numpy
+pandas
+uvicorn
+streamlit
+torch
+bitsandbytes
+transformers
+Pillow 
+torchvision 
+transformers
+sentencepiece
+huggingface_hub
+waitress
+accelerate
+redis
+
