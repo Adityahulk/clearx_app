@@ -2,6 +2,9 @@ import streamlit as st
 from PIL import Image
 from transformers import AutoModel, AutoTokenizer
 import torch
+from huggingface_hub import login
+
+login("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")
 
 # Load model and tokenizer
 @st.cache_resource  # Cache the model and tokenizer for performance
